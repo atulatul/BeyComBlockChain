@@ -1,0 +1,16 @@
+contract address                    : 0x6a0e25bc7c42e4df558c8dfc3bd4fa405586d4e6
+contract tx hash                    : 0xb87466755064dc5f54a53cfc58bd6447a2eab3e0ca4c9350a4021664e6709f51
+transaction hash for the new star   : 0xdfb7feca79ec92a545a3c331a5634b6a86b39b320cf39aedaf3cf12fd612bea0
+star tokenId                        : 1
+putStarFor Sale tx                  : 0x6c1a17a0a330a3dc055bc2175cf8f94ca5046abe3ac1b4ab353f7047046d853d
+
+
+
+Output received during truffle deploy
+
+Running migration: 2_initial_migration.js
+  Deploying StarNotary...
+  ... 0xb87466755064dc5f54a53cfc58bd6447a2eab3e0ca4c9350a4021664e6709f51
+  StarNotary: 0x6a0e25bc7c42e4df558c8dfc3bd4fa405586d4e6
+Saving successful migration to network...
+  ... 0x1a31e1d16d01a1913e13e5672a0bbc6d2db9e8d1029df7891fbb60588a08bfa7
